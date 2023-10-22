@@ -1,3 +1,8 @@
+#### Name: Sameer Vishwakarma
+- Place: Bhopal, Madhya Pradesh, India
+- Bio: Student, Data Analyst
+- GitHub:sam-vish(https://github.com/sam-vish)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
